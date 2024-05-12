@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Saxena
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Pytorch in ml
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on machine learning and low level stuff
 - 📫 How to reach me @adityaredofficial on instagram and madityasaxena@gmail.com
 - 😄 Pronouns: He/Him
   
