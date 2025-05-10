@@ -10,7 +10,7 @@ I'm an **Agentic AI Developer** passionate about building **intelligent**, **sel
 
 ### 🚀 Experience & Impact
 
-During my **Summer Analyst Internship at Aditya Birla Hindalco (2023)**, I completed over **150 hours** of on-site training in **manufacturing analytics** using **Minitab** and **Python**, which led to a **5% improvement** in process efficiency. In addition, as a **Microsoft Learn Student Ambassador (2023–2024)**, I led workshops for over **180 developers** on **App Development** and **Prompt Engineering**, resulting in a **10% boost** in workflow productivity. I also promoted various events through **100+ class-to-class sessions** and live demos, helping to increase engagement and learning among my peers.
+During my **Summer Analyst Internship at Aditya Birla Hindalco (2024)**, I completed over **150 hours** of on-site training in **manufacturing analytics** using **Minitab** and **Python**, which led to a **5% improvement** in process efficiency. In addition, as a **Microsoft Learn Student Ambassador (2023–2024)**, I led workshops for over **180 developers** on **App Development** and **Prompt Engineering**, resulting in a **10% boost** in workflow productivity. I also promoted various events through **100+ class-to-class sessions** and live demos, helping to increase engagement and learning among my peers.
 
 ### 🔧 Skills
 
