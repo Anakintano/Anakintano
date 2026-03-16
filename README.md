@@ -27,7 +27,13 @@ I am proficient in **AI & Machine Learning** techniques, including LLMs, Reinfor
 - 🛠️see all my projects on [GitHub](https://github.com/anakintano) or [HuggingFace](huggingface.co/Akratos)
 - 📝 Read my [Blog](https://theadityasaxenaofficialportfolio.vercel.app/#blog) available on my Portfolio<!-- Optional -->
 - 🧠watch some interesting stuff i post on my [Youtube](youtube.com/@creedofai) account
-- 📫 [Email](madityasaxena@gmail.com) me to connect further 
+- 📫 [Email](madityasaxena@gmail.com) me to connect further
+
+<img 
+  alt="Aditya Saxena's Github Statistics"
+  src="https://github-readme-stats-phi-wheat.vercel.app/api?username=anakintano&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff"
+/>
+
 
 <!---
 Anakintano/Anakintano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
